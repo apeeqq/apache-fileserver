@@ -1,5 +1,5 @@
 # apache-fileserver
-You can make your own fileserver to private network with this project.
+You can make your own fileserver inside private network with this project
 
 ![projects init.sls file](init-sls-cmd-wait.png)
 
