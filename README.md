@@ -16,7 +16,7 @@ User of this project has full responsibility for the usage.
 
 After downloading the repository
 1. You must run command: sudo mkdir -p /srv/salt/fileserver #This makes directory path /srv/salt/fileserver to your computer, if it doesn't already exist
-2. Copy downloaded files to directory path: /srv/salt/fileserver
+2. Copy **files.com.conf, init.sls, user.rules, user6.rules** files to directory path: /srv/salt/fileserver
 3. Run the module with command: sudo salt '*' state.apply fileserver
 
 <br>
